@@ -21,6 +21,6 @@
     "@types/bootstrap": "^5.2.6",
     "@types/react-bootstrap": "^0.32.32",
     "@vitejs/plugin-react": "^2.2.0",
-    "vite": "^3.2.4"
+    "vite": "^2.9.16"
   }
 }
